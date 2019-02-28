@@ -4,6 +4,9 @@ html,body{
     margin-left: 10px;
 
 }
+.titulo{
+    font-weight: bold;
+}
 
 body{
     background-color: #aee5f3;
