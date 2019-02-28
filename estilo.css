@@ -1,0 +1,14 @@
+html,body{
+
+    padding: 0;
+    margin-left: 10px;
+
+}
+
+body{
+    background-color: #aee5f3;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif
+}
+ul{
+    font-family: 'Courier New', Courier, monospace
+}
